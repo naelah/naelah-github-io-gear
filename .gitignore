@@ -1,5 +1,5 @@
 #ignore folders 
-/.vxcode/
+/.vscode/
 /about/
 /articles/
 /assets/
@@ -9,16 +9,19 @@
 /news/
 /notes/
 
-# ignore all files in route
-*
+# ignore all files in root
+/*
+
+# ignore amsf directory to be excepted later
+# _amsf/*
+# _amsf/_app/*
+# _amsf/_app/_pages*
+# _amsf/_app/_posts*
 
 # ignore all except 
-!/_amsf/_app/_pages/
-!/_amsf/_app/_posts/
-!_amsf/_app/_pages/
-!_amsf/_app/_posts/
-!_amsf/_app/_pages/*
-!_amsf/_app/_posts/*
-!_amsf/_app/_pages/*/*
-!_amsf/_app/_posts/*/*
+!_amsf
+# !_amsf/_app
+# !_amsf/_app/*
+# !_amsf/_app/_pages*
+# !_amsf/_app/_posts*
 !.gitignore
