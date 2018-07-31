@@ -1,5 +1,4 @@
-_amsf/CONVENTIONS.md
-
+#ignore folders 
 /.vxcode/
 /about/
 /articles/
@@ -9,7 +8,11 @@ _amsf/CONVENTIONS.md
 /journal/
 /news/
 /notes/
+
+# ignore all files in route
 *
 
-!/_amsf
+# ignore all except 
+!/_amsf/_app/_pages/
+!/_amsf/_app/_posts/
 !.gitignore
