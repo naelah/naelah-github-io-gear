@@ -9,3 +9,7 @@ _amsf/CONVENTIONS.md
 /journal/
 /news/
 /notes/
+*
+
+!/_amsf
+!.gitignore
