@@ -15,4 +15,10 @@
 # ignore all except 
 !/_amsf/_app/_pages/
 !/_amsf/_app/_posts/
+!_amsf/_app/_pages/
+!_amsf/_app/_posts/
+!_amsf/_app/_pages/*
+!_amsf/_app/_posts/*
+!_amsf/_app/_pages/*/*
+!_amsf/_app/_posts/*/*
 !.gitignore
