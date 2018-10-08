@@ -30,7 +30,7 @@ scheme-hover: "#BE90D4"
 
     <h3>Latest Updates</h3>
     {% for post in site.posts limit:8 %}
-      {% include themes/{{ site.amsf_theme }}/includes/page-item.html %}
+      {% include themes/{{ site.amsf_theme }}/includes/page-item.html %}{{ post.summary }}
     {% endfor %}
 
     <h2>Categories</h2>
