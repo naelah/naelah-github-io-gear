@@ -19,3 +19,7 @@ back to interning, there was something that happened that there was a mix in tas
 
 of course the definition of survival and what it takes to survive has evolved throughout time but the essence of it has always been brutal and unforgiving. 
 
+when you look at big sharks in big tanks at the top of the world, one thing in common is that they're pushy and narcisstic and somehow feel a sense of power that they're having all this authority. 
+it's the curse of the passive that the lack of assertiveness would eventually mean no matter what happens, always the second one in the food chain. Taking the brunt of hunting other animals to later be eaten by the lions. 
+
+it's not fair but life isn't about fairness.
